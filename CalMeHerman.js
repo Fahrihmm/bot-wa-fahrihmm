@@ -950,7 +950,7 @@ quotes = quotesnya.result.quote
                    }
                         list.push(yy)
            }
-               listmsg(from, `${ucapanWaktu}`,  `*Hallo Kak* ${pushname}\nJangan lupa Jaga kesehatan ya<3`, list)
+               listmsg(from, `${ucapanWaktu}`,  `*Hallo Kak ${pushname}*\nJangan lupa Jaga kesehatan ya<3`, list)
                break
        case 'othercmd':
                list = []
